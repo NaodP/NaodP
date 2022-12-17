@@ -14,10 +14,6 @@
 
 ## :trophy: My Github Stats
 <div>
-  <a href="https://github-readme-stats.vercel.app/api?username=NaodP&show_icons=true&theme=github_dark">
-    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=NaodP&show_icons=true&theme=github_dark" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=NaodP&layout=compact&langs_count=8&theme=github_dark">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaodP&layout=compact&langs_count=8&theme=github_dark" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=NaodP&show_icons=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaodP&layout=compact&langs_count=8&theme=github_dark">
 </div>
