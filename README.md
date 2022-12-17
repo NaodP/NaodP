@@ -12,7 +12,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 </div>
 
-## 🏆 My Github Stats
+## 🏆 Github Stats
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=NaodP&show_icons=true&card_width=400&theme=github_dark">
     <img>
