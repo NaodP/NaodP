@@ -14,6 +14,6 @@
 
 ## :trophy: My Github Stats
 <div>
+<img src="https://github-readme-stats.vercel.app/api?username=NaodP&show_icons=true&card_width=400&theme=github_dark">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaodP&layout=compact&langs_count=8&theme=github_dark">
-<img src="https://github-readme-stats.vercel.app/api?username=NaodP&show_icons=false&theme=github_dark">
 </div>
