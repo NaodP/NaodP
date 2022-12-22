@@ -2,7 +2,6 @@
 - 🎓 Full Time Student
 - 📍 Texas, USA
 
-
 ## 🎯 Languages & Tools
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
