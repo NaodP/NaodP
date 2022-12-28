@@ -1,4 +1,4 @@
-## ✏️ Naod Philemon
+## ✏️ About Me
 - 🎓 Full Time Student
 - 📍 Texas, USA
 
