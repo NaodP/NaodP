@@ -11,12 +11,15 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 </div>
 
+<!--
 ## 🏆 Github Stats
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=NaodP&show_icons=true&card_width=400&theme=github_dark">
     <img>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaodP&layout=compact&langs_count=8&theme=github_dark">
 </div>
+-->
+
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaodP&layout=compact&langs_count=8&theme=github_dark)](https://github.com/NaodP/github-readme-stats)
