@@ -4,11 +4,12 @@
 
 ## 🎯 Languages & Tools
 <div>
-  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn-icons-png.flaticon.com/512/1260/1260667.png" alt="ReactJs" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/color/256/mysql-logo.png" alt="MySql" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/fluency/256/node-js.png" alt="NodeJs" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
+  
 </div>
 
 ## 🏆 Github Stats
